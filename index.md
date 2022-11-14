@@ -1,14 +1,14 @@
-## Portfolio
+## Ciarra Portfolio
 
 ---
 
-### Category Name 1 
+### Graphic Design Projects
 
-[Project 1 Title](/sample_page)
+[Project 1: Ripped Text ](/sample_page)ffect
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2: Galexy Cat](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
