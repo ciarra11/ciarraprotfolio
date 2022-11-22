@@ -9,7 +9,7 @@
 
 ---
 [Project 2: Galexy Cat](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pink and blue 2.pngraw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
