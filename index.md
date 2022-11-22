@@ -5,7 +5,7 @@
 ### Graphic Design Projects
 
 [Project 1: Ripped Text ](/sample_page)ffect
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/corey-seager-1.jpgraw=true"/>
 
 ---
 [Project 2: Galexy Cat](/pdf/sample_presentation.pdf)
