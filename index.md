@@ -29,7 +29,7 @@
 
 ### My Web Design Project
 
-- [Project 1 - ABout Me](https://trinket.io/html/d88118bd14)
+- [Project 1 - About Me](https://trinket.io/html/d88118bd14)
 - [Project 2 - My Favorite Celebrity](https://trinket.io/html/eed9d02f3b)
 - [Project 3- Earth PJ Animation](https://trinket.io/html/566c56b707)
 - [Project 4 - Sunrise](https://trinket.io/html/4401d31ddc)
