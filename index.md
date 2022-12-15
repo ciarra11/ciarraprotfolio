@@ -17,7 +17,7 @@
 
 ---
 [Project 4 - Winter Wonderland](/sample_page)
-<img src="images/Winter Wonderland.gif?raw=true"/>
+<img src="images/winter wonderland.gif?raw=true"/>
 
 ---
 [Project 5 - 3D Effect](/sample_page)
