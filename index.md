@@ -36,6 +36,8 @@
 - [Project 5 - Stickers!](https://trinket.io/html/6e7c4fbaaf)
 
 ---
+### My Midterm Project
+[ Midterm Project - E - commerce](https://energize-poeticize-enjoys.w3spaces.com)
 
 
 
